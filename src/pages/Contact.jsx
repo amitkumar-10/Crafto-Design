@@ -58,7 +58,7 @@ export default function Contact() {
           <div className="mt-6 space-y-2 text-slate-700 text-sm">
             <div>Phone: +91 99865 15115</div>
             <div>Email: crafto.sp@gmail.com</div>
-            <div>Cities: Bengaluru • Hyderabad • Pune</div>
+            <div>Cities: Bengaluru • Hyderabad • Mysuru</div>
           </div>
         </div>
         <form onSubmit={onSubmit} className="bg-white rounded-2xl shadow border p-6 space-y-4">
