@@ -36,7 +36,7 @@ function Footer() {
           <p className="mt-2 text-white text-sm">
             Government school, 3rd cross, road, Chikka Banaswadi, Bengaluru, Karnataka 560033
           </p>
-          <p className="mt-2">📞 +91-96064 59716
+          <p className="mt-2">📞 +91-99162 77539
 
           <div className="flex gap-4 ml-9 mt-4 justify-center md:justify-start text-xl">
             <a href="#" className="text-blue-500"><i className="fab fa-facebook-f"></i></a>
@@ -57,3 +57,4 @@ function Footer() {
   );
 }
 export default Footer;
+
