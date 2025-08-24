@@ -19,7 +19,6 @@ function Footer() {
           <ul className="mt-2 space-y-1 text-white">
             <li>Bengaluru</li>
             <li>Hyderabad</li>
-            <li>Pune</li>
           </ul>
         </div>
 
@@ -57,4 +56,5 @@ function Footer() {
   );
 }
 export default Footer;
+
 
