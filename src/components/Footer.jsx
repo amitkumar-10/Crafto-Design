@@ -6,7 +6,7 @@ function Footer() {
           <div className="font-semibold text-4xl">Crafto Design</div>
           <p className="mt-2 text-sm font-medium text-white">
             We have been creating functional, beautiful and innovative homes for our clients since 2018.
-            Expert team of designers, architects and project managers, completed over 200+ home and 10+ commercial projects.
+            Expert team of designers, architects and project managers, completed over 100+ home and 12+ commercial projects.
           </p>
           <br />
           <p>Design • Develop • Deliver</p>
@@ -57,5 +57,6 @@ function Footer() {
   );
 }
 export default Footer;
+
 
 
